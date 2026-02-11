@@ -159,7 +159,7 @@ body {
 
 .text p1 {
   font-family: 'Brush Script', cursive;
-  font-size: 1.5rem;            /* 🔥 CHANGE SIZE HERE */
+  font-size: 1rem;            /* 🔥 CHANGE SIZE HERE */
   color: black;
   white-space: nowrap;
   overflow: hidden;
